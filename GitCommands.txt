@@ -1,0 +1,25 @@
+git config --global user.name "YashovardhanG"
+
+git config --global user.email "yashovardhangoyal@gmail.com"
+
+
+git .init
+
+git add *
+
+git status
+
+git commit -m "message"
+
+git remote add origin "server"
+
+git push origin master
+
+git checkout -b <branchname>( -b for new B ranch)
+
+git branch
+
+https://github.com/YashovardhanG/GitDemo.git
+
+password:GitHub@1981
+

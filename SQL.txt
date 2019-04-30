@@ -1,0 +1,19 @@
+CREATE DATABASE testing;
+USE testing;
+
+
+CREATE TABLE Employee (NAME VARCHAR(20), SKILL VARCHAR(20),LOCATION VARCHAR(20), AGE INT(5), DOB DATE);
+
+DESCRIBE Employee;
+
+
+INSERT INTO Employee  VALUES ('John','Java','LONDON',35,'1999-03-30');
+INSERT INTO Employee  VALUES ('Henry','Selenium','New York',39,'2012-07-25');
+INSERT INTO Employee  VALUES ('Shawn','Appium','Singapore',42,'2002-03-09');
+INSERT INTO Employee  VALUES ('Ryab','Protactor','Mumbai',44,'2001-06-11');
+INSERT INTO Employee  VALUES ('Darren','Phyton','manchaster',51,'1984-07-13');
+	
+
+select max(age) from Employee where age < (select max(age) from Employee);
+Driver:com.mysql.jdbc.Driver
+Connectionstring:jdbc:mysql://localhost:3306/testing
