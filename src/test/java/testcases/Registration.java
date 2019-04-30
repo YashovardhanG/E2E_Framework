@@ -33,7 +33,7 @@ public class Registration extends BaseClass {
 		reg.password().sendKeys(Password);
 		reg.confirmPassword().sendKeys(ConfirmPassword);
 		Assert.assertTrue(reg.regButton().isEnabled());
-		log.info("Registration was successful");
+		log.info("Registration was successfull");
 
 	}
 
