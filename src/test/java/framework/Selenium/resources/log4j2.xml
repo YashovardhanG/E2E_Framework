@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+<Properties>
+<Property name ="basedir">./logs</Property>
+</Properties>
+  <Appenders>
+  <RollingFile name="File" fileName="${basedir}/testLog.log"
+            filePattern="${basedir}/testLog-%d{MM-dd-yyyy_HH-mm-ss.SSS}-%i.log">
+            <PatternLayout pattern="%d{dd-MMM-yyyy HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+             <SizeBasedTriggeringPolicy size="1 MB"/>           
+            </RollingFile>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{dd-MMM-yyyy HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+  </Appenders>
+  <Loggers>
+  <!--Logger name="log4j.alpha.TestA" level="trace"  additivity="false">
+      <AppenderRef ref="File"/>
+    </Logger-->
+        <Root level="trace">
+      <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+</Configuration>

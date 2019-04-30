@@ -1,0 +1,119 @@
+23-Apr-2019 18:43:54.432 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+23-Apr-2019 18:47:50.043 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+23-Apr-2019 19:09:35.650 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+23-Apr-2019 19:25:48.602 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:04:11.474 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:07:22.714 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:09:26.805 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:12:49.111 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:14:01.066 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:16:00.475 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:21:19.786 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:25:39.134 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:40:48.004 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:41:00.572 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:43:22.445 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:43:33.129 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:47:48.908 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:48:13.908 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:50:11.245 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:50:30.530 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:53:12.100 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+24-Apr-2019 12:53:24.631 [main] INFO  framework.Selenium.Base.BaseClass - Open the portal
+25-Apr-2019 10:42:17.284 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+25-Apr-2019 10:44:22.305 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+25-Apr-2019 10:44:32.721 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:44:41.212 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:44:50.188 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:45:00.298 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:45:09.251 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:49:13.103 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+25-Apr-2019 10:49:22.883 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:49:33.147 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:49:41.939 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:49:51.573 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 10:50:01.497 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:20:49.064 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 11:23:24.948 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 11:23:35.141 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+25-Apr-2019 11:23:45.563 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:23:56.881 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:24:07.088 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:24:18.183 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:24:30.874 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:26:23.491 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 11:26:48.388 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:27:00.332 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:27:12.663 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:27:23.847 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:27:36.937 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:45:21.717 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 11:46:39.512 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 11:47:02.643 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:47:11.439 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:47:20.887 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:47:30.019 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 11:47:40.584 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:20:41.649 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 12:21:39.206 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:24:36.712 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:24:50.719 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:25:03.299 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:25:14.630 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:25:28.099 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:27:51.323 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 12:28:23.700 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:28:37.772 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:28:52.254 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:29:08.202 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:29:25.599 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:39:12.374 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 12:39:50.998 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:40:11.586 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:40:28.588 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:40:41.114 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:40:55.238 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:47:27.188 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 12:47:50.561 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:48:05.605 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:48:17.468 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:48:27.678 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:48:39.101 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:52:52.211 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 12:53:15.505 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:53:25.718 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:53:36.947 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:53:47.298 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:53:56.575 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:55:19.376 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+25-Apr-2019 12:55:29.844 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+25-Apr-2019 12:55:43.202 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:55:57.741 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:56:09.277 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:56:22.619 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+25-Apr-2019 12:56:32.606 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 10:41:04.700 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+26-Apr-2019 10:41:17.502 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+26-Apr-2019 10:41:29.077 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 10:41:40.125 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 10:41:50.685 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 10:42:00.814 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 10:42:12.009 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 15:58:59.284 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+26-Apr-2019 15:59:09.438 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+26-Apr-2019 15:59:18.760 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 15:59:30.377 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 15:59:39.966 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 15:59:49.884 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 15:59:58.899 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 16:02:42.149 [main] INFO  framework.Selenium.Base.BaseClass - HomePage title verified successfully
+26-Apr-2019 16:03:02.399 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+26-Apr-2019 16:03:21.753 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 16:03:32.093 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 16:03:42.411 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 16:03:53.735 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 16:04:12.962 [main] INFO  framework.Selenium.Base.BaseClass - Registration was successful
+26-Apr-2019 16:25:06.999 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+26-Apr-2019 16:35:10.950 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+26-Apr-2019 16:41:31.868 [main] INFO  framework.Selenium.Base.BaseClass - Login link present
+26-Apr-2019 16:41:42.184 [main] INFO  framework.Selenium.Base.BaseClass - Login link present

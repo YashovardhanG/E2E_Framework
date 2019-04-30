@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34234" started-at="2019-04-26T13:56:31Z" finished-at="2019-04-26T13:57:05Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.testRunner_Portal_param@72d818d1]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="TestCucumber" duration-ms="34234" started-at="2019-04-26T13:56:31Z" finished-at="2019-04-26T13:57:05Z">
+      <class name="testRunner.testRunner_Portal_param">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testRunner.testRunner_Portal_param@72d818d1]" name="setUpClass" is-config="true" duration-ms="212" started-at="2019-04-26T13:56:31Z" finished-at="2019-04-26T13:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.testRunner_Portal_param@72d818d1]" name="runScenario" duration-ms="11615" started-at="2019-04-26T13:56:32Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-04-26T13:56:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User displayed successfully after Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.testRunner_Portal_param@72d818d1]" name="runScenario" duration-ms="22290" started-at="2019-04-26T13:56:43Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-04-26T13:57:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User displayed successfully after Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Login Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate an element using xpath=//div[@class='header-links']/ul/li/a[@class='account']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'P5-GL7QX52', ip: '10.195.108.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//div[@class='header-links']/ul/li/a[@class='account']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'P5-GL7QX52', ip: '10.195.108.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at ObjectRepository.LoginPage.userDisplayed(LoginPage.java:50)
+at stepsDefination.stepsDefinition_Portal.is_displayed1(stepsDefinition_Portal.java:92)
+at ✽.bbb1234@bbb.com is displayed(file:resources/features/LoginParam.feature:10)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunner.testRunner_Portal_param@72d818d1]" name="tearDownClass" is-config="true" duration-ms="18" started-at="2019-04-26T13:57:05Z" finished-at="2019-04-26T13:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.testRunner_Portal_param -->
+    </test> <!-- TestCucumber -->
+  </suite> <!-- Suite -->
+</testng-results>

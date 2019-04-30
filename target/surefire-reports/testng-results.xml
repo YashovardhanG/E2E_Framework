@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="11" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83032" started-at="2019-04-25T07:25:10Z" finished-at="2019-04-25T07:26:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83032" started-at="2019-04-25T07:25:10Z" finished-at="2019-04-25T07:26:33Z">
+      <class name="testcases.HomePage">
+        <test-method status="PASS" signature="Prerequisites()[pri:0, instance:testcases.HomePage@34b7bfc0]" name="Prerequisites" is-config="true" duration-ms="1482" started-at="2019-04-25T07:25:09Z" finished-at="2019-04-25T07:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Prerequisites -->
+        <test-method status="PASS" signature="homePageTitle()[pri:0, instance:testcases.HomePage@34b7bfc0]" name="homePageTitle" duration-ms="8832" started-at="2019-04-25T07:25:10Z" finished-at="2019-04-25T07:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitle -->
+        <test-method status="PASS" signature="getResultTest(org.testng.ITestResult)[pri:0, instance:testcases.HomePage@34b7bfc0]" name="getResultTest" is-config="true" duration-ms="1102" started-at="2019-04-25T07:25:19Z" finished-at="2019-04-25T07:25:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homePageTitle status=SUCCESS method=HomePage.homePageTitle()[pri:0, instance:testcases.HomePage@34b7bfc0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultTest -->
+        <test-method status="PASS" signature="endSuite()[pri:0, instance:testcases.HomePage@34b7bfc0]" name="endSuite" is-config="true" duration-ms="602" started-at="2019-04-25T07:26:33Z" finished-at="2019-04-25T07:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSuite -->
+      </class> <!-- testcases.HomePage -->
+      <class name="testcases.Registration">
+        <test-method status="PASS" signature="DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55]" name="DemoPortalRegisterLink" duration-ms="12436" started-at="2019-04-25T07:25:30Z" data-provider="getData" finished-at="2019-04-25T07:25:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Data13]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Data14]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Data15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoPortalRegisterLink -->
+        <test-method status="PASS" signature="getResultTest(org.testng.ITestResult)[pri:0, instance:testcases.Registration@6df97b55]" name="getResultTest" is-config="true" duration-ms="939" started-at="2019-04-25T07:25:43Z" finished-at="2019-04-25T07:25:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemoPortalRegisterLink status=SUCCESS method=Registration.DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultTest -->
+        <test-method status="PASS" signature="DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55]" name="DemoPortalRegisterLink" duration-ms="13600" started-at="2019-04-25T07:25:44Z" data-provider="getData" finished-at="2019-04-25T07:25:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data22]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Data23]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Data24]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Data25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoPortalRegisterLink -->
+        <test-method status="PASS" signature="getResultTest(org.testng.ITestResult)[pri:0, instance:testcases.Registration@6df97b55]" name="getResultTest" is-config="true" duration-ms="1044" started-at="2019-04-25T07:25:57Z" finished-at="2019-04-25T07:25:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemoPortalRegisterLink status=SUCCESS method=Registration.DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultTest -->
+        <test-method status="PASS" signature="DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55]" name="DemoPortalRegisterLink" duration-ms="10491" started-at="2019-04-25T07:25:58Z" data-provider="getData" finished-at="2019-04-25T07:26:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data31]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data32]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Data33]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Data34]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Data35]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoPortalRegisterLink -->
+        <test-method status="PASS" signature="getResultTest(org.testng.ITestResult)[pri:0, instance:testcases.Registration@6df97b55]" name="getResultTest" is-config="true" duration-ms="1265" started-at="2019-04-25T07:26:09Z" finished-at="2019-04-25T07:26:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemoPortalRegisterLink status=SUCCESS method=Registration.DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultTest -->
+        <test-method status="PASS" signature="DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55]" name="DemoPortalRegisterLink" duration-ms="12077" started-at="2019-04-25T07:26:10Z" data-provider="getData" finished-at="2019-04-25T07:26:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data41]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data42]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Data43]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Data44]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Data45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoPortalRegisterLink -->
+        <test-method status="PASS" signature="getResultTest(org.testng.ITestResult)[pri:0, instance:testcases.Registration@6df97b55]" name="getResultTest" is-config="true" duration-ms="1508" started-at="2019-04-25T07:26:22Z" finished-at="2019-04-25T07:26:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemoPortalRegisterLink status=SUCCESS method=Registration.DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultTest -->
+        <test-method status="PASS" signature="DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55]" name="DemoPortalRegisterLink" duration-ms="8478" started-at="2019-04-25T07:26:24Z" data-provider="getData" finished-at="2019-04-25T07:26:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Data51]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data52]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Data53]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Data54]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Data55]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoPortalRegisterLink -->
+        <test-method status="PASS" signature="getResultTest(org.testng.ITestResult)[pri:0, instance:testcases.Registration@6df97b55]" name="getResultTest" is-config="true" duration-ms="955" started-at="2019-04-25T07:26:32Z" finished-at="2019-04-25T07:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemoPortalRegisterLink status=SUCCESS method=Registration.DemoPortalRegisterLink(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.Registration@6df97b55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultTest -->
+      </class> <!-- testcases.Registration -->
+      <class name="testcases.Login">
+        <test-method status="PASS" signature="DemoPortalLoginLink()[pri:0, instance:testcases.Login@366e2eef]" name="DemoPortalLoginLink" duration-ms="9356" started-at="2019-04-25T07:25:20Z" finished-at="2019-04-25T07:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoPortalLoginLink -->
+        <test-method status="PASS" signature="getResultTest(org.testng.ITestResult)[pri:0, instance:testcases.Login@366e2eef]" name="getResultTest" is-config="true" duration-ms="907" started-at="2019-04-25T07:25:29Z" finished-at="2019-04-25T07:25:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DemoPortalLoginLink status=SUCCESS method=Login.DemoPortalLoginLink()[pri:0, instance:testcases.Login@366e2eef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultTest -->
+      </class> <!-- testcases.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
